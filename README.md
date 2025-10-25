@@ -1,5 +1,5 @@
 <!-- Banner personalizado (puedes reemplazarlo por una imagen propia o generada con tu nombre) -->
-![Banner](https://i.ibb.co/QmZJ6fL/github-banner-tech.png)
+![Banner](./banner.png)
 
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#00BFFF">Elderi</span></h1>
 <h3 align="center">🎓 Ingeniero en Sistemas | 💻 Full Stack Developer | ☁️ Cloud & Integrations Enthusiast</h3>
